@@ -6,7 +6,7 @@
 
 中文视频：[CS61A 2021Spring](https://www.bilibili.com/video/BV1v64y1Q78o?p=1&vd_source=df6d13d2503b6b933df6c019227194aa)
 
-中文课本：来自飞龙大佬的译本[SICP_zh](SICP Python 描述中文版.pdf)
+中文课本：来自飞龙大佬的译本  [SICP_zh](SICP Python 描述中文版.pdf)
 
 ​						项目地址[wizardforcel/sicp-py-zh: 【译】UCB CS61a SICP Python (github.com)](https://github.com/wizardforcel/sicp-py-zh)
 
