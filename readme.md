@@ -8,6 +8,10 @@
 
 # Lecture Notes
 
+[Functions](Notes/Functions.md)
+
+
+
 # Lab
 
 [lab00](labs/lab00/lab00.md)
@@ -17,6 +21,10 @@
 
 
 # HW
+
+[Homework 1: Variables & Functions, Control](hw/hw01/hw01.py)
+
+
 
 # License
 
